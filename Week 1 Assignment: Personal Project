@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <tilte>Resume</tilte>
+    </head>
+    <body>
+<section>
+    <h1>Personal Bio</h1>
+    <p> My name is Eryn I am from Salt Lake City Utah</p>
+    </section>
+    <section>
+        <h2>Education</h1>
+        <p> Political Science Bachelors Degree from the University of Utah 2012-2015</p>
+        </section>
+        <section>
+        <h2>Professional experience</h1>
+        <p>Alliance House Inc. 2018- current Clubhouse Generalist/Transitional Employment Coordinator</p>
+        </section>
+  <nav>
+  <a href="/Personal Bio/">Personal Bio</a>
+</nav>
+</html>
